@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Ayman
 
 I'm a passionate junior frontend developer with a keen interest in creating beautiful and functional web applications. I love working with modern web technologies and continuously learning new skills.
 
@@ -28,9 +28,3 @@ Here are a few projects I've worked on:
 
 - Email: [ayman10edris@gmail.com](mailto:ayman10edris@gmail.com)
 - LinkedIn: [Ayman Idrees](https://www.linkedin.com/in/ayman-idrees/)
-
-## ⚡ Fun fact
-
-I love to explore new technologies and contribute to open-source projects!
-
-Feel free to check out my repositories and connect with me!
