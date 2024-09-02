@@ -20,9 +20,9 @@ I'm a passionate junior frontend developer with a keen interest in creating beau
 
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): A brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3): A brief description of what this project does.
+- [Project 1](https://249ayman.github.io/Elzero-academy-4/): A Dashboard Template Allows Users To Modify Their Profiles.
+- [Project 2](https://249ayman.github.io/Ayman-scss-library/): Personal SASS Library.
+- [Project 3](https://249ayman.github.io/Elzero_academy_3/Index.html): A brief description of what this project does.
 
 ## 📫 How to reach me
 
