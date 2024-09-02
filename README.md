@@ -22,7 +22,7 @@ Here are a few projects I've worked on:
 
 - [Project 1](https://249ayman.github.io/Elzero-academy-4/): A Dashboard Template Allows Users To Modify Their Profiles.
 - [Project 2](https://249ayman.github.io/Ayman-scss-library/): Personal SASS Library.
-- [Project 3](https://249ayman.github.io/Elzero_academy_3/Index.html): A brief description of what this project does.
+- [Project 3](https://249ayman.github.io/Elzero_academy_3/Index.html): A customizable portfolio template designed for showcasing projects, skills, and experiences with a modern, responsive layout. 
 
 ## 📫 How to reach me
 
