@@ -42,10 +42,3 @@ Fullstack developer with 3+ years building responsive, high-performance web apps
 - [Migrating from Vercel to Cloudflare Workers](https://249ayman.com/posts/vercel-to-cloudflare-workers-migration)
 
 More at [249ayman.com/posts](https://249ayman.com/posts).
-
-### GitHub stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=249ayman&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=58A6FF&text_color=808080" alt="Ayman's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=249ayman&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=808080" alt="Top languages" />
-</p>
