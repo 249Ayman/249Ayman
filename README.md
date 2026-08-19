@@ -5,7 +5,7 @@ Fullstack developer with 3+ years building responsive, high-performance web apps
 - 🔭 Currently expanding into mobile development with React Native
 - 🌍 Based in Nairobi, working remotely with international clients
 - 💼 Portfolio and writing: **[249ayman.com](https://249ayman.com)**
-- 📫 **[dev@249ayman.com](mailto:dev@249ayman.com)** · **[LinkedIn](https://www.linkedin.com/in/ayman-idrees/)** · **[X](https://x.com/aymanedris5)**
+- 📫 **[dev@249ayman.com](mailto:dev@249ayman.com)** · **[LinkedIn](https://www.linkedin.com/in/ayman-idrees/)** · **[X](https://x.com/249aymanIdrees)**
 
 ### Tech I work with
 
